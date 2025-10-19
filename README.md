@@ -9,7 +9,7 @@ Gainera, API honek dashboard sinple bat eskaintzen du web orri baten bidez, sent
 
 Azkenik, Render.com zerbitzuari esker, Github-en dagoen kodea martxan jarrikoda eta API zerbitzua erabilgarri bihurtu.
 
-Egileak: Nora Barroso, Aitzol Ezeiza
+Egileak: Aitzol Ezeiza, Nora Barroso
 
 # Demo de un sistema IoT con el servicio Render.com (ejemplo sencillo)
 
@@ -20,3 +20,5 @@ Para lograrlo, utilizaremos Flask para crear una API. A través de esta API, los
 Además, esta API ofrece un dashboard sencillo accesible desde una página web, donde se muestran los datos de los sensores en una tabla.
 
 Por último, gracias al servicio Render.com, el código alojado
+
+Aitoría: Aitzol Ezeiza, Nora Barroso
