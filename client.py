@@ -2,7 +2,7 @@ import requests
 import random
 import time
 
-URL = "https://demorenderii.onrender.com"
+URL = "https://demorenderii-nora.onrender.com/"
 URL_PATH = URL + "/api/data"
 
 while True:
